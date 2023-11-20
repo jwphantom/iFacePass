@@ -1,0 +1,62 @@
+/* authMode.css */
+
+.authModeContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #1a3250;
+}
+
+.content {
+    text-align: center;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.buttonsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.faceIDButton {
+    display: flex; /* Utilise Flexbox pour aligner les éléments verticalement */
+    align-items: center; /* Centre les éléments verticalement */
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 14px;
+    background-color: #74226b;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    padding: 15px 80px;
+    font-weight: 300;
+}
+
+.ButtonIcon {
+    margin-right: 20px; /* Ajoute une marge à droite de l'icône pour l'espacement */
+}
+
+.keyButton {
+    display: flex; /* Utilise Flexbox pour aligner les éléments verticalement */
+    align-items: center; /* Centre les éléments verticalement */
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 14px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    cursor: pointer;
+    padding: 15px 80px;
+    font-weight: 300;
+}
+
+.auth-button:hover {
+    background-color: #581b4d; /* Couleur légèrement plus sombre au survol */
+}
