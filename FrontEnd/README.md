@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/X7dSE68.png"></p>
+<p align="center"><img src="https://asset.cloudinary.com/educcia/de857f3f642829238f896913c43b8b4c"></p>
 
 ## Usage
 
