@@ -1,4 +1,4 @@
-<p align="center"><img src="https://asset.cloudinary.com/educcia/de857f3f642829238f896913c43b8b4c"></p>
+<p align="center"><img src="https://res.cloudinary.com/educcia/image/upload/v1700507941/iFacePass_entry.png"></p>
 
 ## Usage
 
